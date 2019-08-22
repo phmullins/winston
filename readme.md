@@ -23,7 +23,7 @@ Easily create and deploy assets across a variety of cloud platforms like [AWS](h
 10. A Bash script then launches Teraform and executes the custom script.
 11. Custom server(s) are built using the informations that was chosen in #02-07.
 12. User is notified of a successful or unsuccessful build.
-13. If successful, user is presented with an IP address and login credentials.
+13. If successful, the user is presented with an IP address and login credentials.
 14. If unsuccessful, an error message is displayed.
 
 ## Author
