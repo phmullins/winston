@@ -7,7 +7,7 @@ Easily create and deploy assets across a variety of cloud platforms like [AWS](h
 ### Application Components
 
 - User Interface: HTML/CSS.
-- Backend: [Ansible](https://www.ansible.com/), [Teraform](https://www.terraform.io/), and Bash.
+- Backend: [Ansible](https://www.ansible.com/), [Terraform](https://www.terraform.io/), and Bash.
 
 ### High-Level Application Flow
 
@@ -19,8 +19,8 @@ Easily create and deploy assets across a variety of cloud platforms like [AWS](h
 6. User chooses how much storage space they need.
 7. User enters a server name.
 8. User clicks the "deploy server" button.
-9. System generates a Teraform script from user choices.
-10. A Bash script then launches Teraform and executes the custom script.
+9. System generates a Terraform script from user choices.
+10. A Bash script then launches Terraform and executes the custom script.
 11. Custom server(s) are built using the informations that was chosen in #02-07.
 12. User is notified of a successful or unsuccessful build.
 13. If successful, the user is presented with an IP address and login credentials.
