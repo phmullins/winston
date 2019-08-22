@@ -2,7 +2,7 @@
 
 Easily create and deploy assets across a variety of cloud platforms like [AWS](https://aws.amazon.com/), 
 [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), [DO](https://www.digitalocean.com/),
-[](https://console.scaleway.com), and [Vultr](https://my.vultr.com/).
+[Scaleway](https://console.scaleway.com), and [Vultr](https://my.vultr.com/).
 	
 ### Application Components
 
